@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>log4net.Filter.FuzzyStringFilter</id>
+    <version>0.0.1</version>
+    <title>log4net.Filter.FuzzyStringFilter</title>
+    <authors>Adam Schaible</authors>
+    <owners>Adam Schaible</owners>
+    <licenseUrl>https://github.com/aschaible/log4net.Filter.FuzzyStringFilter</licenseUrl>
+    <projectUrl>https://github.com/aschaible/log4net.Filter.FuzzyStringFilter</projectUrl>
+    <iconUrl>https://github.com/aschaible/log4net.Filter.FuzzyStringFilter</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows you to filter log4net messages with fuzzy string logic</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>log4net fuzzy logging string fuzzystring FuzzyStringFilter</tags>
+  </metadata>
+</package>
